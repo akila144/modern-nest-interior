@@ -85,7 +85,7 @@ header.sticky .header-content {
     gap: 0;
 }
 
-header.sticky .site-title { font-size: 24px; letter-spacing: 3px; }
+header.sticky .site-title { font-size: 22px; letter-spacing: 3px; }
 
 /* Nav alignment fixes */
 .main-nav { 
@@ -209,3 +209,4 @@ input:checked + .slider:before { transform: translateX(1.5em); box-shadow: inset
     header.sticky .header-content { padding: 0 20px; }
     .nav-links { gap: 15px; }
 }
+
